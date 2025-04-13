@@ -1,0 +1,9 @@
+python -m venv venv  
+venv\Scripts\activate
+
+pip install python-dotenv
+pip install openai
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt

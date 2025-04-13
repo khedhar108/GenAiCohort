@@ -1,0 +1,2 @@
+# create a .env file with the OpenRouter API key in the root directory
+OPENROUTER_API_KEY=sk-or-v1-
